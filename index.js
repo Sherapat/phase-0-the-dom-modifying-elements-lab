@@ -1,1 +1,3 @@
-// Write your code here!
+const newHeader = document.createElement('h1')
+newHeader.id = 'victory'
+newHeader.innerHTML = "YOUR_NAME is the champion"
